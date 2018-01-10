@@ -13,6 +13,7 @@ public class App {
 	 * @param args
 	 */
 	public static List<UserDetails> ls = new ArrayList<UserDetails>();
+
 	public static void main(String[] args) {
 		saveData();
 		loadData();
