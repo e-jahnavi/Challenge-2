@@ -21,8 +21,6 @@ public class UserDetails implements Serializable {
 		this.phone = phone;
 		this.address = address;
 	}
-
-
 	private int id;
 	private String name;
 	private String phone;

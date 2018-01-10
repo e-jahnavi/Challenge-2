@@ -39,5 +39,4 @@ public class App {
 			System.out.println(ud.next());
 		}
 	}
-
 }
